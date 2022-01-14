@@ -1,1 +1,1 @@
-# Spam-filtering
+# Spam filtering with Naive Bayes using RDD
